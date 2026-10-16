@@ -1,0 +1,14 @@
+src/mdm/agents/crush.rs
+  h_d2af38a25b8851 76-79,302-305,308,353,359,567-589
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.7.6",
+  "base_commit_sha": "57482022e0f2754916ad97193ef597f8e97aa64b",
+  "prompts": {},
+  "humans": {
+    "h_d2af38a25b8851": {
+      "author": "TCMAHYILMAZ <yilmaz.mahmut@turkcell.com.tr>"
+    }
+  }
+}
