@@ -1,0 +1,39 @@
+src/commands/git_ai_handlers.rs
+  s_552cc0c48711d6::t_26d576209087a8 327
+agent-support/crush/git-ai-hook.sh
+  s_552cc0c48711d6::t_a284e2652db715 1-42
+tests/integration/main.rs
+  s_552cc0c48711d6::t_32e8a570b9053a 53
+src/mdm/agents/crush.rs
+  s_552cc0c48711d6::t_8d1c3d6122978e 1-411
+tests/integration/repos/test_repo.rs
+  s_552cc0c48711d6::t_010ca300b1b0aa 1042
+tests/integration/crush.rs
+  s_552cc0c48711d6::t_946ae95fc6b013 1-288
+src/mdm/agents/mod.rs
+  s_552cc0c48711d6::t_1119bd8efb65c8 5,23,51
+tests/integration/repos/test_file.rs
+  s_552cc0c48711d6::t_5dd386d8bbb140 19
+src/commands/checkpoint_agent/presets/crush.rs
+  s_552cc0c48711d6::t_81f10dad6966ea 1-361
+src/commands/checkpoint_agent/bash_tool.rs
+  s_552cc0c48711d6::t_9a617dfd120ab6 369-375,412
+src/commands/checkpoint_agent/presets/mod.rs
+  s_552cc0c48711d6::t_50a74b9dcd8b19 10,154-157,176
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.7.6",
+  "base_commit_sha": "7b19fe39a446b38542154d37fbf8d616f5ba2755",
+  "prompts": {},
+  "sessions": {
+    "s_552cc0c48711d6": {
+      "agent_id": {
+        "tool": "crush",
+        "id": "manual-dev-session",
+        "model": "glm-53-fp8"
+      },
+      "human_author": "TCMAHYILMAZ <yilmaz.mahmut@turkcell.com.tr>"
+    }
+  }
+}
