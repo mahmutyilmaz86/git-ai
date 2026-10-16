@@ -1,0 +1,19 @@
+src/mdm/agents/crush.rs
+  s_bd767f82f23c78::t_b51c686b1ec64f 226,251-257,261,530-627
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.7.6",
+  "base_commit_sha": "af5bd36a78dce939b819c110b29d2433d505eb65",
+  "prompts": {},
+  "sessions": {
+    "s_bd767f82f23c78": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "a6861750-5b2a-4a36-a275-4c7ad76970c3",
+        "model": "unknown"
+      },
+      "human_author": "TCMAHYILMAZ <yilmaz.mahmut@turkcell.com.tr>"
+    }
+  }
+}
