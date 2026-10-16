@@ -1,0 +1,16 @@
+agent-support/crush/git-ai-hook.sh
+  h_d712cb34df281a 31-36
+src/mdm/agents/crush.rs
+  h_d712cb34df281a 13-15,59-63,75-76,87,89,93-95,702-732
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.7.6",
+  "base_commit_sha": "33bcf0928a79935eb57eb422e98c1db26805c26b",
+  "prompts": {},
+  "humans": {
+    "h_d712cb34df281a": {
+      "author": "Mahmut Yilmaz <yilmaz.mahmut@turkcell.com.tr>"
+    }
+  }
+}
