@@ -1,0 +1,14 @@
+tests/integration/crush.rs
+  h_d2af38a25b8851 94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.7.6",
+  "base_commit_sha": "eb8bdabc61a765ce72470265e7411823a46c335c",
+  "prompts": {},
+  "humans": {
+    "h_d2af38a25b8851": {
+      "author": "TCMAHYILMAZ <yilmaz.mahmut@turkcell.com.tr>"
+    }
+  }
+}
