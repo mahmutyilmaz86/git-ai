@@ -1,0 +1,16 @@
+agent-support/crush/git-ai-hook.sh
+  h_d2af38a25b8851 4-16,22-23,30,39-60,63-65,67-73
+src/mdm/agents/crush.rs
+  h_d2af38a25b8851 366-377
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.7.6",
+  "base_commit_sha": "9391e1168ccacfba3523e082a30f0a39102c43f3",
+  "prompts": {},
+  "humans": {
+    "h_d2af38a25b8851": {
+      "author": "TCMAHYILMAZ <yilmaz.mahmut@turkcell.com.tr>"
+    }
+  }
+}
